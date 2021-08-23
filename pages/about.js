@@ -43,13 +43,14 @@ const About = () => {
                                 </a>
 
                                 <p>
-                                    Developing has always been a intresting subject to me. Being 
+                                    Developing has always been a intresting subject to me
+                                    {/* Developing has always been a intresting subject to me. Being 
                                     able to develop softwares that solve peoples problems and make
                                     peoples life easy has bring a masive impact to my life.
                                     Technology has been a go to relay on in this world 🌍 of today.
                                     I am sure my technological skills can bring tour ideas to life.
                                     What you need to know is that I have extensive knowledge of
-                                    recognized technical standards and i'm familiar with modern build practices.
+                                    recognized technical standards and i'm familiar with modern build practices. */}
                                 </p>
                             </li>
 

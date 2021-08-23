@@ -47,7 +47,7 @@ const Home = () => {
                                 </a>
                             </Link>
 
-                            , or send me an email " 📧 " at {' '}
+                            , or send me an email 📧  at {' '}
 
                             <button
                                 style={{ cursor: 'crosshair' }}
