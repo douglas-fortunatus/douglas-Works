@@ -70,11 +70,11 @@ const About = () => {
                                 </Link>
                                 <p>
                                     I don’t like to define myself by the work I’ve done. 
-                                    I define myself by the work I want to do. Skills can be taught, 
+                                    {/* I define myself by the work I want to do. Skills can be taught, 
                                     personality is inherented. I prefer to keep learning, 
                                     continue challenging myself, and do interesting things that matter. 
                                     I'm strongly in depth in research, product design and product co-ordination 
-                                    that would help the product grow from 0 - 1.
+                                    that would help the product grow from 0 - 1. */}
                                 </p>
                             </li>
                         </ul>
