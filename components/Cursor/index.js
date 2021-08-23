@@ -26,8 +26,9 @@ const Cursor = () => {
                     cursor.current.classList.remove('hovered');
                 };
             }
-        },
-        [cursor.current]
+        }
+        // ,
+        // [cursor.current]
     );
 
     const click = useCallback(() => {
