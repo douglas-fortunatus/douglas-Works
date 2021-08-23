@@ -25,8 +25,8 @@ export default class MyDocument extends Document{
                     <meta name="keywords" content="Douglas Fortunatus, Doku, DCODE, DxCODE" />
 
                     {/* stylesheets */}
-                    <link rel="stylesheet" href="/css/normalize.css" />
-                    <link rel="stylesheet" href="/css/base.css" />
+                    {/* <link rel="stylesheet" href="/css/normalize.css" />
+                    <link rel="stylesheet" href="/css/base.css" /> */}
                 </Head>
 
                 <body>
