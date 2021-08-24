@@ -1,6 +1,9 @@
-import App from "next/app"
-import React from "react"
-import '../styles/normalize.css'
+import App from "next/app";
+import React from "react";
+
+import '../styles/normalize.css';
+import '../styles/base.css';
+
 import { PageTransition } from 'next-page-transitions';
 
 import AppContext from '../components/Utils/context';
