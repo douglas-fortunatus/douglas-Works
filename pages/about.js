@@ -24,7 +24,7 @@ const About = () => {
                                     target="_blank"
                                     rel="noopener noreferrer"
                                     aria-label="Open Github Link"
-                                    href="https://github.com/adenekan41"
+                                    href="https://github.com/douglas-fortunatus"
                                 >
                                     Engineering{' '}
                                     <small>
@@ -36,7 +36,7 @@ const About = () => {
                                     target="_blank"
                                     rel="noopener noreferrer"
                                     aria-label="Open Github Link"
-                                    href="https://github.com/adenekan41"
+                                    href="https://github.com/douglas-fortunatus"
                                     className="float-right"
                                 >
                                     View Github
