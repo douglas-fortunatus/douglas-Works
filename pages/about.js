@@ -44,13 +44,13 @@ const About = () => {
 
                                 <p>
                                     Developing has always been a intresting subject to me
-                                    {/* Developing has always been a intresting subject to me. Being 
+                                    Developing has always been a intresting subject to me. Being 
                                     able to develop softwares that solve peoples problems and make
                                     peoples life easy has bring a masive impact to my life.
                                     Technology has been a go to relay on in this world 🌍 of today.
                                     I am sure my technological skills can bring tour ideas to life.
                                     What you need to know is that I have extensive knowledge of
-                                    recognized technical standards and i'm familiar with modern build practices. */}
+                                    recognized technical standards and i'm familiar with modern build practices.
                                 </p>
                             </li>
 
@@ -70,11 +70,11 @@ const About = () => {
                                 </Link>
                                 <p>
                                     I don’t like to define myself by the work I’ve done. 
-                                    {/* I define myself by the work I want to do. Skills can be taught, 
+                                    I define myself by the work I want to do. Skills can be taught, 
                                     personality is inherented. I prefer to keep learning, 
                                     continue challenging myself, and do interesting things that matter. 
                                     I'm strongly in depth in research, product design and product co-ordination 
-                                    that would help the product grow from 0 - 1. */}
+                                    that would help the product grow from 0 - 1.
                                 </p>
                             </li>
                         </ul>
