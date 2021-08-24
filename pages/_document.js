@@ -22,8 +22,6 @@ export default class MyDocument extends Document{
 
                     <meta name="author" content="Douglas Fortunatus" />
                     <meta name="keywords" content="Douglas Fortunatus, Doku, DCODE, DxCODE" />
-
-                    <link rel="stylesheet" href="/css/normalize.css" />
                 </Head>
 
                 <body>
