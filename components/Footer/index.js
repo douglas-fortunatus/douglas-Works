@@ -81,7 +81,7 @@ const FooterLink = ({ children, goto, ...rest }) => {
                 <a
                     target="_blank"
                     rel="noopener noreferrer"
-                    href="https://instagram.com/codewonders"
+                    href="https://www.instagram.com/invites/contact/?i=knadf27ovpdh&utm_content=l7tmst"
                     aria-label="Go To Douglas Fortunatus Instagram Page"
                     title="Instagram Page"
                 >
