@@ -71,7 +71,7 @@ const FooterLink = ({ children, goto, ...rest }) => {
                 <a
                     target="_blank"
                     rel="noopener noreferrer"
-                    href="https://github.com/douglas"
+                    href="https://github.com/douglas-fortunatus"
                     aria-label="Go To Douglas Fortunatus Github Page"
                     title="Github Page"
                 >
