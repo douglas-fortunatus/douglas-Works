@@ -14,7 +14,7 @@ const PROJECTS_DATA = [
     {
       title: 'Local Chefs',
       description: 'A food website',
-      github: 'https://github.com/adenekan41/shoprrr',
+      github: 'https://github.com/douglas-fortunatus/Local-Chefs',
       about:
         'A webiste for ordering food from the local chefs.',
       link: 'https://shoprrr.netlify.com',
