@@ -4,9 +4,9 @@ const PROJECTS_DATA = [
       description: 'An E-commerce Website For Buying Products',
       about:
         'DCODE shop is an e-commerce platform created to bring the best fast experience for customers to buy products.',
-      link: 'https://piggment.co',
+      link: 'https://dcodeshop.netlify.app/',
       imageUrl: 'https://i.ibb.co/tCZFDhL/Screen-Recording-2020-06-11-at-1.gif',
-      github: 'https://github.com/adenekan41/piggment',
+      github: 'https://github.com/douglas-fortunatus/DxCODE---Shop',
       type: ['project'],
       technologies: ['HTML', 'Sass & CSS', 'Javascript'],
     },
