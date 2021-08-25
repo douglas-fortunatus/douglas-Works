@@ -41,7 +41,7 @@ const FooterLink = ({ children, goto, ...rest }) => {
                 <a
                     target="_blank"
                     rel="noopener noreferrer"
-                    href="https://twitter.com/douglas"
+                    href="https://twitter.com/Douglasfortunee"
                     aria-label="Go To Douglas Fortunatus Twitter Page"
                     title="Twitter Page"
                 >
