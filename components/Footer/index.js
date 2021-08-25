@@ -51,7 +51,7 @@ const FooterLink = ({ children, goto, ...rest }) => {
                 <a
                     target="_blank"
                     rel="noopener noreferrer"
-                    href="https://www.facebook.com/douglas"
+                    href="https://www.facebook.com/douglas.fortunatus"
                     aria-label="Go To Douglas Fortunatus Facebook Page"
                     title="Facebook Page"
                 >
@@ -61,7 +61,7 @@ const FooterLink = ({ children, goto, ...rest }) => {
                 <a
                     target="_blank"
                     rel="noopener noreferrer"
-                    href="https://linkedin.com/in/douglas"
+                    href="https://www.linkedin.com/in/douglas-fortunatus-355848199/"
                     aria-label="Go To Douglas Fortunatus Linkedin Page"
                     title="Linkedin Page"
                 >
