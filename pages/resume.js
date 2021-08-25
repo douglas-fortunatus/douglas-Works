@@ -6,7 +6,7 @@ import Layout, { PageWrapper } from "../components/Layout"
 import FooterLink from '../components/Footer';
 
 const Resume = () => {
-    const resumeData = 'https://www.canva.com/design/DAEEkidwA2Q/view?utm_content=DAEEkidwA2Q&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink';
+    const resumeData = 'https://www.canva.com/design/DAEnEJTfLDE/dTjazAy5WTMzWrMBux4n-Q/edit?category=tACZCki4tbY';
 
     const previewData = `${resumeData.substr(
         0, resumeData.lastIndexOf('/') + 1
