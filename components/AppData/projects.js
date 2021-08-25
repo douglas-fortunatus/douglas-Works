@@ -5,7 +5,8 @@ const PROJECTS_DATA = [
       about:
         'DCODE shop is an e-commerce platform created to bring the best fast experience for customers to buy products.',
       link: 'https://dcodeshop.netlify.app/',
-      imageUrl: 'https://i.ibb.co/tCZFDhL/Screen-Recording-2020-06-11-at-1.gif',
+      imageUrl: '../../public/videos/ezgif.com-gif-maker.gif';
+      // imageUrl: 'https://i.ibb.co/tCZFDhL/Screen-Recording-2020-06-11-at-1.gif',
       github: 'https://github.com/douglas-fortunatus/DxCODE---Shop',
       type: ['project'],
       technologies: ['HTML', 'Sass & CSS', 'Javascript'],
