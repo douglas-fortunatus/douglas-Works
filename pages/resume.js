@@ -29,28 +29,6 @@ const Resume = () => {
                             </b>{'  '}
                             .{'  '}
 
-                            <b>
-                                <a
-                                    href={`https://drive.google.com/file/d/${process.env.NEXT_PUBLIC_RESUME_LINK}/view?usp=sharing`}
-                                    target="_blank"
-                                    rel="noopener noreferrer"
-                                    aria-label="Go to Resumé Page"
-                                >
-                                    View
-                                </a>
-                            </b>{'  '}
-                            or {'  '}
-
-                            <b>
-                                <a
-                                href={`https://drive.google.com/file/d/${process.env.NEXT_PUBLIC_RESUME_LINK}/view?usp=sharing`}
-                                target="_blank"
-                                rel="noopener noreferrer"
-                                aria-label="Go to Resumé Page"
-                                >
-                                download
-                                </a>
-                            </b>{' '}
                             the resume{' '}
                         </p>
                     </article>

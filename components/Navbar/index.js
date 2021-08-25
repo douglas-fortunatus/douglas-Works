@@ -96,7 +96,7 @@ const Navbar = () => {
                                     </Link>
                                 </li>
 
-                                {/* <li className="nav-item hover__bottom">
+                                <li className="nav-item hover__bottom">
                                     <Link href="/resume" activeClassName="is-active">
                                         <a
                                             className="nav-link"
@@ -109,7 +109,7 @@ const Navbar = () => {
                                             Resume
                                         </a>
                                     </Link>
-                                </li> */}
+                                </li>
 
                                 <li className="nav-item hover__bottom">
                                     <Link href="/contact" activeClassName="is-active">
