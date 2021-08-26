@@ -17,7 +17,7 @@ const PROJECTS_DATA = [
       github: 'https://github.com/douglas-fortunatus/Local-Chefs',
       about:
         'A webiste for ordering food from the local chefs.',
-      link: 'https://shoprrr.netlify.com',
+      link: 'https://local-chefs.netlify.app/',
       imageUrl: 'https://i.ibb.co/TrLP0Hr/ezgif-com-gif-maker.gif',
       type: ['project'],
       technologies: ['HTML', 'Sass & CSS', 'Javascript'],
