@@ -30,7 +30,8 @@ const Home = () => {
                         <p>
                             Software engineer, both developer and designer,
                             Working with my hands to make magic happen on the internet.
-                            I love working with teams and learning new things.
+                            I love working with teams and learning new things. I can work
+                            remotely too.
                         </p>
 
                         <p>
