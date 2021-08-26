@@ -18,7 +18,7 @@ const PROJECTS_DATA = [
       about:
         'A webiste for ordering food from the local chefs.',
       link: 'https://shoprrr.netlify.com',
-      imageUrl: 'https://i.ibb.co/T0XwFsQ/Screen-Recording-2020-05-06-at-3.gif',
+      imageUrl: 'https://i.ibb.co/TrLP0Hr/ezgif-com-gif-maker.gif',
       type: ['project'],
       technologies: ['HTML', 'Sass & CSS', 'Javascript'],
     },
