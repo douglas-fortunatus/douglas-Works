@@ -5,7 +5,7 @@ const PROJECTS_DATA = [
       about:
         'DCODE shop is an e-commerce platform created to bring the best fast experience for customers to buy products.',
       link: 'https://dcodeshop.netlify.app/',
-      imageUrl: 'https://drive.google.com/file/d/1YvXb1p-dZaFwoS40WlpbTi7LFgyXUuPn/view?usp=sharing',
+      imageUrl: 'https://ibb.co/9VtBfX5',
       github: 'https://github.com/douglas-fortunatus/DxCODE---Shop',
       type: ['project'],
       technologies: ['HTML', 'Sass & CSS', 'Javascript'],
