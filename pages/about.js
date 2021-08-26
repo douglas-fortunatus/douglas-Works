@@ -43,7 +43,6 @@ const About = () => {
                                 </a>
 
                                 <p>
-                                    Developing has always been a intresting subject to me
                                     Developing has always been a intresting subject to me. Being 
                                     able to develop softwares that solve peoples problems and make
                                     peoples life easy has bring a masive impact to my life.
