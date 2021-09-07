@@ -43,9 +43,10 @@ const About = () => {
                                 </a>
 
                                 <p>
+                                    Hi, I’m Douglas. Nice to meet you.
                                     Developing has always been a intresting subject to me. Being 
-                                    able to develop softwares that solve peoples problems and make
-                                    peoples life easy has bring a masive impact to my life.
+                                    able to use my coding skills to help people that solve peoples problems 
+                                    and make life easy has bring a masive impact to my life.
                                     Technology has been a go to relay on in this world 🌍 of today.
                                     I am sure my technological skills can bring tour ideas to life.
                                     What you need to know is that I have extensive knowledge of
@@ -70,8 +71,9 @@ const About = () => {
                                 <p>
                                     I don&apos;t like to define myself by the work I&apos;ve done. 
                                     I define myself by the work I want to do. Skills can be taught, 
-                                    personality is inherented. I prefer to keep learning, 
-                                    continue challenging myself, and do interesting things that matter. 
+                                    personality is inherent. I prefer to keep learning, 
+                                    continue challenging myself, and do interesting things that matter.
+                                    
                                     I&apos;m strongly in depth in research, product design and product co-ordination 
                                     that would help the product grow from 0 - 1.
                                 </p>

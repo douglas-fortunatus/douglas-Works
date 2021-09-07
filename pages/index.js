@@ -28,7 +28,7 @@ const Home = () => {
                         </h1>
 
                         <p>
-                            Software engineer, both developer and designer,
+                            I like to code and enjoy bringing ideas to life in the browser,
                             Working with my hands to make magic happen on the internet.
                             I love working with teams and learning new things. I can work
                             remotely too.
