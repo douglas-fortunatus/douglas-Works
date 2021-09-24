@@ -28,7 +28,7 @@ const Home = () => {
                         </h1>
 
                         <p>
-                            Nice to meet you. I am here to help you solve your problems with my programming skills. View my {' '} 
+                            Helllo nice to meet you. I am here to help you solve your problems with my programming skills. View my {' '} 
                             <Link href="/projects">
                                 <a aria-label="Go to Projects Page">
                                     <button type="button">Code Shop 🧑‍💻</button>
