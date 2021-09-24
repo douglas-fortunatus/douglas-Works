@@ -28,19 +28,12 @@ const Home = () => {
                         </h1>
 
                         <p>
-                            I like to code and enjoy bringing ideas to life in the browser,
-                            Working with my hands to make magic happen on the internet.
-                            I love working with teams and learning new things. I can work
-                            remotely too.
-                        </p>
-
-                        <p>
-                            I am here to help you solve your problems with my programming skills. View my {' '}
+                            Nice to meet you. I am here to help you solve your problems with my programming skills. View my {' '} 
                             <Link href="/projects">
                                 <a aria-label="Go to Projects Page">
                                     <button type="button">Code Shop 🧑‍💻</button>
                                 </a>
-                            </Link>, {' '}
+                            </Link>,  {' '}
 
                             <Link href="/contact">
                                 <a aria-label="Go to Resume Page">
